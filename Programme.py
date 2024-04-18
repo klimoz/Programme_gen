@@ -7,7 +7,7 @@ import random
 from collections import Counter
 
 # Définir le seuil de filtrage
-seuil_filtre = 3000
+seuil_filtre = 50
 
 # Fonction pour charger les mots à partir d'un fichier
 def charger_mots(fichier):
