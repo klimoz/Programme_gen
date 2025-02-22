@@ -1,4 +1,4 @@
-#Graoupe : TACHRIFT karim , LORIENTE lucas , YABA-NGO charlotte // 
+#Graoupe : TA karim , LO lucas , YA charlotte // 
 
 
 # Importer les modules nécessaires
